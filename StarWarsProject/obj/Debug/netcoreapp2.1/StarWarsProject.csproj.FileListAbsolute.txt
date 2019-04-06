@@ -1,0 +1,11 @@
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\bin\Debug\netcoreapp2.1\StarWarsProject.deps.json
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\bin\Debug\netcoreapp2.1\StarWarsProject.runtimeconfig.json
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\bin\Debug\netcoreapp2.1\StarWarsProject.runtimeconfig.dev.json
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\bin\Debug\netcoreapp2.1\StarWarsProject.dll
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\obj\Debug\netcoreapp2.1\StarWarsProject.csproj.CoreCompileInputs.cache
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\obj\Debug\netcoreapp2.1\StarWarsProject.AssemblyInfoInputs.cache
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\obj\Debug\netcoreapp2.1\StarWarsProject.AssemblyInfo.cs
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\bin\Debug\netcoreapp2.1\StarWarsProject.pdb
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\obj\Debug\netcoreapp2.1\StarWarsProject.csprojAssemblyReference.cache
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\obj\Debug\netcoreapp2.1\StarWarsProject.dll
+C:\Users\lucab\source\repos\SalviniQuotes\StarWarsProject\obj\Debug\netcoreapp2.1\StarWarsProject.pdb
