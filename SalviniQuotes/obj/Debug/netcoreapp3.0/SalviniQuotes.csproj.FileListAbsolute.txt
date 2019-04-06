@@ -1,0 +1,12 @@
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\bin\Debug\netcoreapp3.0\SalviniQuotes.exe
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\bin\Debug\netcoreapp3.0\SalviniQuotes.deps.json
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\bin\Debug\netcoreapp3.0\SalviniQuotes.runtimeconfig.json
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\bin\Debug\netcoreapp3.0\SalviniQuotes.runtimeconfig.dev.json
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\bin\Debug\netcoreapp3.0\SalviniQuotes.dll
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\bin\Debug\netcoreapp3.0\SalviniQuotes.pdb
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\obj\Debug\netcoreapp3.0\SalviniQuotes.csprojAssemblyReference.cache
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\obj\Debug\netcoreapp3.0\SalviniQuotes.csproj.CoreCompileInputs.cache
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\obj\Debug\netcoreapp3.0\SalviniQuotes.AssemblyInfoInputs.cache
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\obj\Debug\netcoreapp3.0\SalviniQuotes.AssemblyInfo.cs
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\obj\Debug\netcoreapp3.0\SalviniQuotes.dll
+C:\Users\lucab\source\repos\SalviniQuotes\SalviniQuotes\obj\Debug\netcoreapp3.0\SalviniQuotes.pdb
